@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>_posts/about.html</loc>
+    <lastmod>2022-02-13T17:02:40+08:00</lastmod>
+  </url>
+  <url>
+    <loc>_posts/</loc>
+    <lastmod>2022-07-21T08:42:12+08:00</lastmod>
+  </url>
+  <url>
+    <loc>_posts/influence.html</loc>
+    <lastmod>2022-01-28T09:30:59+08:00</lastmod>
+  </url>
+  <url>
+    <loc>_posts/posts/2022-07-21-WHO/</loc>
+    <lastmod>2022-08-03T14:59:23+08:00</lastmod>
+  </url>
+  <url>
+    <loc>_posts/posts/2022-01-27-live-streaming/</loc>
+    <lastmod>2022-01-27T14:22:33+08:00</lastmod>
+  </url>
+  <url>
+    <loc>_posts/posts/2022-01-25-who/</loc>
+    <lastmod>2022-01-27T12:29:57+08:00</lastmod>
+  </url>
+  <url>
+    <loc>_posts/posts/2022-01-25-kangmei/</loc>
+    <lastmod>2022-01-27T16:08:34+08:00</lastmod>
+  </url>
+  <url>
+    <loc>_posts/posts/2022-01-25-tariffs/</loc>
+    <lastmod>2022-01-27T12:27:37+08:00</lastmod>
+  </url>
+</urlset>

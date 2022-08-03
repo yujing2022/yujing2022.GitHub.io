@@ -1,0 +1,33 @@
+---
+title: "Influence of my coverage"
+description: |
+ Aim to bridge information gap and promote social justice through news coverage.
+---
+# Award 
+
+***Removing Import Tariffs on Anti-cancer Drugs to Benefit Patients’ Livelihood*** was awarded for great coverage composition on Healthy China in 2018 from the National Health Commission of the PRC.
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r}
+knitr::include_graphics("Award.PNG")
+```
+
+
+
+# Assisting Supervision by Public Opinion 
+
+***Kangmei Pharmaceutical Founder Denies the Allegation of Financial Fraud after 29.9 Billion Yuan Cash Disappearing*** was cited  in a regulatory work letter by Shanghai Stock Exchange,and the Vtopic on Weibo generated  from the coverage attracted millions of reads.
+
+
+```{r}
+knitr::include_graphics("SCE-inquiry.PNG")
+```
+[Click here to read original regulatory work letter](http://static.sse.com.cn/disclosure/listedinfo/announcement/c/2019-05-06/600518_20190506_1.pdf)
+
+```{r}
+knitr::include_graphics("Reads.PNG")
+```
+[Click here to read original vtopic website](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E7%BE%8E%E8%8D%AF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%B4%A2%E5%8A%A1%E9%80%A0%E5%81%87%23)
+

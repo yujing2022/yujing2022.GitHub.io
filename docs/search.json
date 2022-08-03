@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Me",
+      "description": "Yujing Gao, a journalist from Mainland China, writes financial coverage with focus on the health industry and hosted a live-streaming channel called Face the Doctor.",
+      "author": [],
+      "contents": "\nMy vlog\n\n\n\nClick here to\nwatch my vlog\n\n\n\n",
+      "last_modified": "2022-08-03T15:00:54+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "News Articles Written by Yujing",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-08-03T15:00:54+08:00"
+    },
+    {
+      "path": "influence.html",
+      "title": "Influence of my coverage",
+      "description": "Aim to bridge information gap and promote social justice through news coverage.",
+      "author": [],
+      "contents": "\nAward\nRemoving Import Tariffs on Anti-cancer Drugs to Benefit\nPatients’ Livelihood was awarded for great coverage\ncomposition on Healthy China in 2018 from the National Health Commission\nof the PRC.\n\n\n\nAssisting Supervision\nby Public Opinion\nKangmei Pharmaceutical Founder Denies the Allegation of\nFinancial Fraud after 29.9 Billion Yuan Cash Disappearing\nwas cited in a regulatory work letter by Shanghai Stock Exchange,and the\nVtopic on Weibo generated from the coverage attracted millions of\nreads.\n\n\n\nClick\nhere to read original regulatory work letter\n\n\n\nClick\nhere to read original vtopic website\n\n\n\n",
+      "last_modified": "2022-08-03T15:00:55+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

@@ -1,0 +1,56 @@
+---
+title: 'Exclusive: Kangmei Pharmaceutical Founder Denies the Allegation of Financial
+  Fraud after 29.9 Billion Yuan Cash Disappearing'
+description: |
+  this is a lead coverage of Kangmei Financial Fraud in 2019, Shanghai Stock Exchange cited it in support of the securities regulation. Kangmei Financial Fraud is called one of the worst accounting scandals in A-share market history.
+author:
+  - name: Yujing Gao 
+date: 2019-04-30
+output:
+  distill::distill_article
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r}
+knitr::include_graphics("images/stocks.jpeg")
+```
+"Accounting error is different from financial fraud", the founder and chairman of Kangmei Pharmaceutical Co. Ltd., Ma Xingtian, said in an interview with the reporter from China Business Journal on the afternoon of April 30.
+
+At this time, it has been less than 24 hours since Kangmei released the "Announcement on Correction of Previous Accounting Errors", which admitted overstating cash holdings by 29.9 billion yuan ($4.4 billion). But Ma Xingtian and the company he single-handedly founded, have both been dragged in the court of public opinion.
+
+## 29.9 Billion Yuan Accounting Error
+
+On the evening of April 29, Kangmei released the 2018 Annual Report which included correction of previous accounting errors, and announced, “since the company was investigated by the China Securities Regulatory Commission (CSRC) late last year, self-inspection and necessary verification have been carried out. The company found discrepancies in the operating income, operating costs, expenses and payment before 2018, so corrected the above-mentioned errors between 2016 and 2018 by retrospective restatement method. All of accounting errors led to 29.9 billion yuan overstatement of the company’s cash holding”.
+
+Of note, Kangmei almost overturns complete results in the 2017 Annual Report, and the investors flee.
+
+In the early trading of April 30, shares of Kangmei immediately slumped by the 10% daily limit. At close of trade, it is down to roughly 9.54 yuan per share. The company's latest market value is 47.45 billion yuan. At the same time, "15 Kangmei Bond" issued in 2015 also dropped 11.31% to 65.57 yuan.
+
+Kangmei has been repeatedly suspected of fraud by most onlookers, given it had maintained billions of yuan in cash, kept high-proportion pledge by majority shareholders and appeared an accounting anomaly of "both high deposit and loan".
+
+The so-called "both high deposit and loan" means the ratio of company's cash holdings and interest-bearing liabilities accounting for total assets respectively are both higher than the industry average. In other words, Kangmei borrowed a large amount of money with sufficient cash holdings. It is so self-contradictory that cannot be explained with business logic.
+
+According to the data of Kangmei's 2017 Annual Report uncorrected before, company reported net assets attributable to shareholders of 32.03 billion yuan. Specifically, the cash holdings amounted to 34.15 billion yuan, accounting for 107% of the net assets. The interest-bearing liabilities, including short-term loans of 11.37 billion yuan, notes payable of 22 million yuan, bonds payable of 8.30 billion yuan, long-term payables of 1.8 billion yuan and short-term commercial paper of 5 billion yuan, accounted for 83% of the net assets.
+
+The anomaly of "both high deposit and loan" continued in 2018. According to the data of Kangmei's 2018 Half-year Report, the cash holdings amounted to 1.8 billion yuan, accounting for 6% of the net assets. Interest-bearing liabilities amounted to 37.6 billion yuan, accounting for 133% of the net assets.
+
+A spokesman for Kangmei said, "The investigation by the CSRC has made us square up to the existence of some irregularities. The adjustment of some accounting items is based on the investigation and supervision by the CSRC, which is more credible and reliable. The problem market particularly concerned about is the reduction of 29.9 billion yuan in cash, which is not wiped, but has been converted into inventories. Our inventories are still valuable".
+
+## Fueling Suspicions of Fraud
+
+After the "comprehensive correction" of the 2017 Annual Report, the authenticity of Kangmei 's 2018 Annual Report is suspected in the same way.
+
+Guangdong Auditor GP Certified Public Accountants Co. Ltd. issued an audit report with a "qualified opinion" on Kangmei's 2018 annual report. The basis of the opinion lies in three aspects: First, Kangmei is currently under investigation by the CSRC, which has not yet reached a conclusion, and the impact on Kangmei is still unclear; second, auditors cannot confirme the accuracy of other receivables of 8.88 billion yuan from related parties and whether they can be recovered; third, the financial management of some projects of Kangmei's subordinate companies with a total of roughly 3.605 billion yuan, is not standardized.
+
+Previously, the capital market's suspicions about Kangmei's financial status have also been noticed by regulatory authorities. On December 28, 2018, Kangmei announced the CSRC launched an investigation into its suspected violations in information disclosure.
+
+As of now, the CSRC is still investigating Kangmei. According to the company's latest announcement on the progress of investigation, “because the matters being investigated may relate to the circumstances of compulsory delisting for major violations, company's stock will be subject to a compulsory delisting risk ”.
+In addition, the Shanghai Stock Exchange today send a regulatory work letter to Kangmei, which concerns the correction of previous accounting errors and other matters.
+
+From one of the “white horses” with market value exceeding 10 billion yuan to a "black swan", Kangmei has fallen rapidly. The retail investors who have lost money in the stock following the missing money disclosures start suing the company.
+
+Up to now, the Sina Shareholder Rights Protection Platform has received 968 cases on suing Kangmei, of which 942 cases are accepted by lawyers.A lawyer representing investors in those cases said: "Kangmei Pharmaceutical is likely to be punished by the CSRC for falsifying its disclosures. According to the judicial interpretations, if Kangmei Pharmaceutical were to be punished, the retail investors might be able to sue it".
+
+[*Original Website*](http://www.cb.com.cn//index/show/zj/cv/cv13448181268)

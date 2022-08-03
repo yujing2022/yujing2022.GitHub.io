@@ -1,0 +1,13 @@
+---
+title: "About Me"
+description: |
+ Yujing Gao, a journalist from Mainland China, writes financial coverage with focus on the health industry and hosted a live-streaming channel called Face the Doctor.
+---
+# My vlog #
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r}
+knitr::include_graphics("videos.png")
+```
+[Click here to watch my vlog](https://www.bilibili.com/video/BV1eF411n7Gf)

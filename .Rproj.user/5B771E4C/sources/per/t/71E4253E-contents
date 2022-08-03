@@ -1,0 +1,17 @@
+name: "Yujing Gao"
+title: "Yujing Gao's Coverage"
+description: "News Articles"
+output_dir: "docs"
+base_url: "_posts"
+navbar:
+  logo:
+    image: yujing.png
+  search: true
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Influence"
+      href: influence.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

@@ -1,0 +1,44 @@
+---
+title: "Live-streaming"
+
+categories:
+  - Live-streaming Channel
+  
+description: |
+  I was an anchor of a live-streaming channel called Face the Doctor , with the aim of popularizing medical knowledge, especially on COVID-19 pandemic, attracting more than 1.6 million total viewers in 2020.
+author:
+  - name: Yujing Gao
+    url: {}
+date: 12-31-2020
+
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Some Episodes of Face the Doctor
+
+## the First Episode
+ 
+```{r}
+knitr::include_graphics("1.png")
+```
+[Click here to watch the original video](http://live.vhall.com/636070000)
+
+## the Second Episode
+ 
+```{r}
+knitr::include_graphics("2.png")
+```
+[Click here to watch the original video](https://live.vhall.com/v3/lives/watch/542232818?)
+
+## the Third Episode
+ 
+```{r}
+knitr::include_graphics("3.png")
+```
+[Click here to watch the original video](https://live.vhall.com/v3/lives/watch/609715275?)
